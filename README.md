@@ -1,5 +1,7 @@
 # Data Analysis using Python 
 
+## Using Jupyter Notebook
+
 # Titanic Dataset 
 Just Open the code. It literally explains every Line :).
 
